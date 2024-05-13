@@ -33,4 +33,5 @@ Refer to the individual documentation files in the repository for detailed expla
 
 ## Contributing
 PROJECT STATUS: pending
+
 Contributions to this repository are welcome and very much encouraged! Please feel free to open an issue or submit a pull request if you would like to contribute!
