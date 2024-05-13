@@ -32,5 +32,5 @@ This repository includes documentation and examples for fundamental ARM assembly
 Refer to the individual documentation files in the repository for detailed explanations and examples of each command.
 
 ## Contributing
-
+PROJECT STATUS: pending
 Contributions to this repository are welcome and very much encouraged! Please feel free to open an issue or submit a pull request if you would like to contribute!
