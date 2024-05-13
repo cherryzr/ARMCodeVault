@@ -1,9 +1,5 @@
 # My ARM Assembly Documentation
 
-![arm assembly logo](logo.png)
-
-zuha <3
-
 Welcome to the ARM Assembly Documentation Repository! This repo aims to serve as a meaningful resource for learning and referencing basics of ARM assembly language, providing a collection of documentation, examples, and basic commands to get you started on your journey into the world of ARM architecture.
 
 A wise person once said "everything is open source if you can read assembly" xD
